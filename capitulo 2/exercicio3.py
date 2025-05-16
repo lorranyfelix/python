@@ -1,20 +1,37 @@
 print("valor do primeiro: 8min e 15s")
-minutoPrimeiroTrecho = 8
+minutoPrimeiroTrecho = 8 * 60
 segundosPrimeiroTrecho = 15
-totalTempoPrimeiroTrecho = (8 * 60) + segundosPrimeiroTrecho
-print("Tempo do primeiro trecho em segundos:",totalTempoPrimeiroTrecho)
 
 print("Tempo do segundo trecho: 7min e 12s ")
-minutoSegundoTrecho = 7
-segundosSegundoTrecho = 12
-totalTempoSegundoTrecho = (7 * 60) + segundosSegundoTrecho
-print("Tempo do segundo trecho em segundos:", totalTempoSegundoTrecho)
+minutoSegundoTrecho = (7 * 3) * 60
+segundosSegundoTrecho = 12 * 3
 
 print("valor do terceiro: 8min e 15s")
-minutoTerceiroTrecho = 8
+minutoTerceiroTrecho = 8 * 60
 segundosTerceiroTrecho = 15
-totalTempoTerceiroTrecho = (8 * 60) + segundosTerceiroTrecho
-print("Tempo do primeiro trecho em segundos:",totalTempoTerceiroTrecho)
 
+# Soma o total de minutos e converte todos os segundos em minutos
 
+totalTempoTodosTrechosMinutos = (minutoPrimeiroTrecho + minutoSegundoTrecho + minutoTerceiroTrecho) / 60
 
+# Soma valor total dos segundos
+totalTempoTodosTrechosSegundos = (segundosSegundoTrecho + segundosTerceiroTrecho + segundosPrimeiroTrecho)
+
+restanteMinutos = int(totalTempoTodosTrechosSegundos / 60)
+restanteSegundos = totalTempoTodosTrechosSegundos % 60
+
+totalMinutos = totalTempoTodosTrechosMinutos + restanteMinutos
+totalSegundos = restanteSegundos
+
+print("Soma de tempo de todos os trechos em minutos: ", totalMinutos, "minutos")
+print("Soma de tempo de todos os trechos em minutos foi: ", totalSegundos, "segundos")
+
+horaInicialSegundos = (6 * 60) * 60
+minutoInicialSegundos = 52 * 60
+horaraioInicialSegundos = horaInicialSegundos + minutoInicialSegundos
+
+tempoTrechoMinutosSegundos = totalMinutos * 60
+
+horaChegada = int(((horaraioInicialSegundos + tempoTrechoMinutosSegundos) / 60) / 60)
+minutoChegada = int(((minutoInicialSegundos + tempoTrechoMinutosSegundos) / 60) % 60)
+print("O horário de chegada foi",horaChegada,":",minutoChegada,".",restanteSegundos)
