@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b673c0a1-8f97-4882-804f-64a7c0b993a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista de exercicios/exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista de exercicios/exercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista de exercicios/exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista de exercicios/exercicio2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,7 @@
     "Python.exercicio1.executor": "Run",
     "Python.exercicio2.executor": "Run",
     "Python.exercicio3.executor": "Run",
+    "Python.exercicio5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/aluno/Documents/python",
