@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b673c0a1-8f97-4882-804f-64a7c0b993a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo 3/exemplo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo 3/exemplo1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.exemplo1.executor": "Run",
+    "Python.exemplo2.executor": "Run",
     "Python.exemplo2operadoresartimeticos.executor": "Run",
+    "Python.exemplo3.executor": "Run",
     "Python.exemplo3expressosinstrucoes.executor": "Run",
     "Python.exemplo3valoresetipos.executor": "Run",
     "Python.exemplo4ordemdasexpressoes.executor": "Run",
@@ -56,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/aluno/Documents/python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
