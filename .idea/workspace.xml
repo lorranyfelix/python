@@ -41,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exemplo1.executor": "Run",
     "Python.exemplo2operadoresartimeticos.executor": "Run",
     "Python.exemplo3expressosinstrucoes.executor": "Run",
     "Python.exemplo3valoresetipos.executor": "Run",
