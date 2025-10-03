@@ -10,10 +10,8 @@ def divisao_numero(numero):
 def mostra_mensagem():
         print(input("Pressione qualquer tecla para continuar..."))
 
-
 numero = int(input("Digite um número: "))
 print("Vou verificar se é divisivel por 2 ou 3")
-
 
 mostra_mensagem()
 divisao_numero (numero)
