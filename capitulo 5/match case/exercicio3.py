@@ -1,7 +1,10 @@
 def mes_ano(diaUsuario, mesUsuario):
     match mesUsuario:
-        case 10, 12:
-            print(f"Hoje é feriado.")
+        case 12, 10:
+            match diaUsuario:
+                print(f"Hoje é feriado.")
+        case _:
+            print(f"Dia {diaUsuario} não é feriado.")
 
 
 
