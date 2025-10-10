@@ -39,44 +39,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.correcaoexercicio4.executor": "Run",
-    "Python.correcaoexercicio5.executor": "Run",
-    "Python.exemplo1.executor": "Run",
-    "Python.exemplo2.executor": "Run",
-    "Python.exemplo2operadoresartimeticos.executor": "Run",
-    "Python.exemplo3.executor": "Run",
-    "Python.exemplo3expressosinstrucoes.executor": "Run",
-    "Python.exemplo3valoresetipos.executor": "Run",
-    "Python.exemplo4.executor": "Run",
-    "Python.exemplo4ordemdasexpressoes.executor": "Run",
-    "Python.exemplo5capturarentrada.executor": "Run",
-    "Python.exemplo5operacoescomstrings.executor": "Run",
-    "Python.exercicio1 (1).executor": "Run",
-    "Python.exercicio1.executor": "Run",
-    "Python.exercicio10IdadeJogador.executor": "Run",
-    "Python.exercicio2.executor": "Run",
-    "Python.exercicio3.executor": "Run",
-    "Python.exercicio4.executor": "Run",
-    "Python.exercicio5 (1).executor": "Run",
-    "Python.exercicio5.executor": "Run",
-    "Python.exercicio6 (1).executor": "Run",
-    "Python.exercicio6.executor": "Run",
-    "Python.exercicio6ImparPar.executor": "Run",
-    "Python.exercicio7.executor": "Run",
-    "Python.exercicio7Zero.executor": "Run",
-    "Python.exercicio8.executor": "Run",
-    "Python.exercicio8Divisao.executor": "Run",
-    "Python.exercicioIdade.executor": "Run",
-    "Python.exercicioLeiaNumero.executor": "Run",
-    "Python.exercicioNumeroMaior.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/aluno/Documents/python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.correcaoexercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.correcaoexercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo2operadoresartimeticos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo3expressosinstrucoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo3valoresetipos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo4ordemdasexpressoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo5capturarentrada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo5operacoescomstrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio10IdadeJogador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio5 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio6 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio6ImparPar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio7Zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio8Divisao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicioIdade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicioLeiaNumero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicioNumeroMaior.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aluno/Documents/python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aluno\Documents\python\capitulo 5\estrutura de decisão" />
@@ -84,7 +84,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="exercicio3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista 3 trimestre" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capitulo 5/match case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista 3 trimestre/exercicio3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo 5/match case/exercicio1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio1" />
         <item itemvalue="Python.exercicio7" />
         <item itemvalue="Python.exercicio6 (1)" />
         <item itemvalue="Python.exercicio8" />
         <item itemvalue="Python.exercicio5 (1)" />
-        <item itemvalue="Python.exercicio3" />
       </list>
     </recent_temporary>
   </component>
